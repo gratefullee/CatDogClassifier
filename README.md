@@ -11,7 +11,7 @@ So far,
 - accuracy: 0.9187
 
 - number of epoches: 10
-- number of batch: 16
+- batch size: 16
 
 
 ![ninegrid](/img/nine.jpg)
