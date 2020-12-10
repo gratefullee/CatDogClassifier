@@ -14,7 +14,7 @@ as of 12/09/20,
 - batch size: 16
 
 future work: 
-interation 
+- interation 
 
 ![ninegrid](/img/nine.jpg)
 
