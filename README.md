@@ -1,6 +1,6 @@
 # cat_dog_classification
 
-This is a cat & dog classification model using Tenserflow for a personal training purpose. 
+This is a cat & dog classification model using Tenserflow simply for skill development purposes. 
 
 Datasets: 
 - 200 pictures of dogs
