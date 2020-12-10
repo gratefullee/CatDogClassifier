@@ -10,7 +10,7 @@ As of 12/09/20,
 
 - accuracy: 0.9187
 
-- number of epoches: 10
+- number of epochs: 10
 - batch size: 16
 
 Future work: 
