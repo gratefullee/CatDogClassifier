@@ -1,2 +1,2 @@
-# image_procesing
+# cat_dog_classification
 practice
