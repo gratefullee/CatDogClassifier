@@ -8,10 +8,10 @@ Datasets:
 
 So far,
 
-accuracy: 0.9187
+- accuracy: 0.9187
 
-number of epoches: 10
-number of batch: 16
+- number of epoches: 10
+- number of batch: 16
 
 
 ![ninegrid](/img/nine.jpg)
