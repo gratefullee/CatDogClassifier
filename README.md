@@ -1,2 +1,2 @@
 # cat_dog_classification
-![catdog](../catdog.png)
+![catdog](/catdog.png)
