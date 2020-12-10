@@ -1,2 +1,2 @@
-# image_procesing
-practice
+# cat_dog_classification
+![catdog](../catdog.png)
