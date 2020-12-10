@@ -6,14 +6,14 @@ Datasets:
 - 200 pictures of dogs
 - 200 pictures of cats
 
-as of 12/09/20, 
+As of 12/09/20, 
 
 - accuracy: 0.9187
 
 - number of epoches: 10
 - batch size: 16
 
-future work: 
+Future work: 
 - interation (backward propagation) 
 
 ![ninegrid](/img/nine.jpg)
