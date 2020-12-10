@@ -1,5 +1,5 @@
 # cat_dog_classification
-![catdog](/img/catdog.png)
+
 This is a cat & dog classification model using Tenserflow for a personal training purpose. 
 
 So far,
@@ -11,3 +11,6 @@ number of batch: 16
 
 
 ![ninegrid](/img/nine.jpg)
+
+
+![catdog](/img/catdog.png)
