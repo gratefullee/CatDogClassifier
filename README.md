@@ -2,6 +2,10 @@
 
 This is a cat & dog classification model using Tenserflow for a personal training purpose. 
 
+Datasets: 
+- 200 pictures of dogs
+- 200 pictures of cats
+
 So far,
 
 accuracy: 0.9187
