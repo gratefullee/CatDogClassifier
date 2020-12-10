@@ -3,8 +3,8 @@
 This is a cat & dog classification model using Tenserflow simply for skill development purposes.
 
 ## Datasets: 
-- 200 pictures of dogs
-- 200 pictures of cats
+- 200 images of dogs
+- 200 images of cats
 
 ## As of 12/09/20, 
 
