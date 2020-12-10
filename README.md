@@ -1,2 +1,2 @@
 # cat_dog_classification
-practice
+![catdog](../catdog.png)
