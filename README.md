@@ -6,9 +6,11 @@ This is a cat & dog classification model using Tenserflow simply for skill devel
 - 200 images of dogs
 - 200 images of cats
 
-## As of 12/09/20, 
+## Results: 
 
 - accuracy: 0.9187
+
+
 
 - number of epochs: 10
 - batch size: 16
